@@ -1,0 +1,22 @@
+.product > img{
+border: solid 2px black;
+border-radius: 20px;
+margin-right: 10px;
+}
+
+.product > button{
+    background-color: rgb(0, 128, 105);
+    color: white;
+    padding: 5px 10px; 
+    border-radius: 10px;
+}
+
+.form > label > textarea{
+    resize: none;
+}
+
+.form{
+    display: none;
+    max-width: 300px;
+}
+
